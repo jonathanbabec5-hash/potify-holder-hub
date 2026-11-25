@@ -1,0 +1,15 @@
+{
+  "name": "potify-holder-hub",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Independent, self-hostable Solana POTIFY holder hub beta; no custody or token transfers.",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check:public": "node --test tests/hub.test.mjs"
+  }
+}

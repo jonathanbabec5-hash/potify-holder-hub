@@ -1,0 +1,7 @@
+{
+  "project": "POTIFY Greenhouse and Holder Hub",
+  "kind": "Application source, local beta",
+  "source": "potify-holder-hub-standalone.zip. Self-hosted Node/SQLite beta with example configuration and synthetic test fixtures.",
+  "scope": "This wallet-keyed beta predates the multi-wallet ID pilot. Existing member data and production migration remain separate.",
+  "prepared": "2026-11-25"
+}
