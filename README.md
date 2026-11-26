@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## Giving credit for the same good deed exactly once
+
+A quest is a small promise between a contributor and an organizer: do the work, show what happened, receive a fair review. In the Greenhouse the most revealing case is the second review of the same quest. A community should be able to recognize a contribution without counting it twice.
+
+Read the [local beta server](server.mjs) with the [hub tests](tests/hub.test.mjs). SQLite ties the review decision to the award. These Seeds are non-transferable community points; the older wallet-keyed beta and the later multi-wallet identity pilot have different data models.
+
+Use the synthetic tests to trace one submission, one authorized review and an attempted repeat. Report the visible state after both attempts. Actual membership records and production migrations belong outside a public fixture.
+
 **Application source, local beta.** Give members a place to record contributions and view non-transferable Seeds.
 
 ### Setup and usage
