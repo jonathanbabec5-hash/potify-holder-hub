@@ -1,5 +1,13 @@
 # POTIFY Greenhouse and Holder Hub
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A community builder | [Try the local beta](#setup-and-usage) | Follow a sample quest and review. |
+| A developer | [Read the hub tests](tests/hub.test.mjs) | Trace a submission, award and duplicate review. |
+| An identity builder | [Explore the Potify ID pilot](https://github.com/jonathanbabec5-hash/potify-id) | Compare its separate identity model with this beta. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## Giving credit for the same good deed exactly once
